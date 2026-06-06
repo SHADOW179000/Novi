@@ -1,0 +1,395 @@
+{
+  "national": [
+    {"name": "National Emergency", "number": "112", "category": "emergency", "available": "24/7"},
+    {"name": "Ambulance", "number": "108", "category": "medical", "available": "24/7"},
+    {"name": "Fire Brigade", "number": "101", "category": "fire", "available": "24/7"},
+    {"name": "Police", "number": "100", "category": "police", "available": "24/7"},
+    {"name": "Women Helpline", "number": "181", "category": "women", "available": "24/7"},
+    {"name": "Cyber Crime", "number": "1930", "category": "cyber", "available": "24/7"},
+    {"name": "Childline", "number": "1098", "category": "child", "available": "24/7"},
+    {"name": "Mental Health iCall", "number": "9152987821", "category": "mental", "available": "24/7"},
+    {"name": "Senior Citizen", "number": "14567", "category": "senior", "available": "24/7"},
+    {"name": "Consumer Helpline", "number": "1800-11-0001", "category": "consumer", "available": "24/7"},
+    {"name": "Kisan Helpline", "number": "1800-180-1253", "category": "farmer", "available": "24/7"},
+    {"name": "Passport Seva", "number": "1800-258-1800", "category": "document", "available": "24/7"},
+    {"name": "Railway Emergency", "number": "139", "category": "railway", "available": "24/7"},
+    {"name": "Road Accident", "number": "1073", "category": "road", "available": "24/7"},
+    {"name": "Disaster Management", "number": "1078", "category": "disaster", "available": "24/7"},
+    {"name": "Anti Poison", "number": "1800-116-117", "category": "medical", "available": "24/7"},
+    {"name": "Blood Bank", "number": "104", "category": "medical", "available": "24/7"},
+    {"name": "COVID Helpline", "number": "1075", "category": "medical", "available": "24/7"},
+    {"name": "Air Ambulance", "number": "9540161344", "category": "medical", "available": "24/7"},
+    {"name": "Tuberculosis", "number": "1800-11-6666", "category": "medical", "available": "24/7"},
+    {"name": "AIDS Helpline", "number": "1097", "category": "medical", "available": "24/7"},
+    {"name": "Flood Relief", "number": "1070", "category": "disaster", "available": "24/7"},
+    {"name": "Coast Guard", "number": "1554", "category": "emergency", "available": "24/7"},
+    {"name": "Missing Child SOS", "number": "1094", "category": "child", "available": "24/7"}
+  ],
+  "states": [
+    {
+      "state": "Andhra Pradesh",
+      "code": "AP",
+      "specific": [
+        {"name": "AP Police Control Room", "number": "0863-2573400", "category": "police"},
+        {"name": "AP CM Helpline", "number": "1902", "category": "general"},
+        {"name": "AP Women Safety", "number": "181", "category": "women"},
+        {"name": "AP Ambulance", "number": "108", "category": "medical"},
+        {"name": "AP Disaster", "number": "1070", "category": "disaster"},
+        {"name": "AP Anti Corruption", "number": "1064", "category": "general"}
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "code": "AR",
+      "specific": [
+        {"name": "AR Police Control", "number": "0360-2244870", "category": "police"},
+        {"name": "AR Emergency", "number": "112", "category": "emergency"},
+        {"name": "AR Ambulance", "number": "108", "category": "medical"},
+        {"name": "AR Women Helpline", "number": "181", "category": "women"}
+      ]
+    },
+    {
+      "state": "Assam",
+      "code": "AS",
+      "specific": [
+        {"name": "Assam Police Control", "number": "100", "category": "police"},
+        {"name": "Assam Emergency", "number": "112", "category": "emergency"},
+        {"name": "Assam Ambulance", "number": "108", "category": "medical"},
+        {"name": "Assam Women Helpline", "number": "181", "category": "women"},
+        {"name": "Assam Flood Control", "number": "1070", "category": "disaster"},
+        {"name": "Assam CM Helpline", "number": "1905", "category": "general"}
+      ]
+    },
+    {
+      "state": "Bihar",
+      "code": "BR",
+      "specific": [
+        {"name": "Bihar Police Control", "number": "0612-2201977", "category": "police"},
+        {"name": "Bihar Emergency", "number": "112", "category": "emergency"},
+        {"name": "Bihar Ambulance", "number": "108", "category": "medical"},
+        {"name": "Bihar Women Helpline", "number": "181", "category": "women"},
+        {"name": "Bihar CM Helpline", "number": "1800-345-6188", "category": "general"},
+        {"name": "Bihar Disaster", "number": "1070", "category": "disaster"}
+      ]
+    },
+    {
+      "state": "Chhattisgarh",
+      "code": "CG",
+      "specific": [
+        {"name": "CG Police Control", "number": "0771-2444100", "category": "police"},
+        {"name": "CG Emergency", "number": "112", "category": "emergency"},
+        {"name": "CG Ambulance", "number": "108", "category": "medical"},
+        {"name": "CG Women Helpline", "number": "181", "category": "women"},
+        {"name": "CG CM Helpline", "number": "1100", "category": "general"}
+      ]
+    },
+    {
+      "state": "Goa",
+      "code": "GA",
+      "specific": [
+        {"name": "Goa Police Control", "number": "0832-2421313", "category": "police"},
+        {"name": "Goa Emergency", "number": "112", "category": "emergency"},
+        {"name": "Goa Ambulance", "number": "108", "category": "medical"},
+        {"name": "Goa Women Helpline", "number": "181", "category": "women"},
+        {"name": "Goa Tourism Emergency", "number": "1800-233-0111", "category": "general"},
+        {"name": "Goa Coast Guard", "number": "1554", "category": "emergency"}
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "code": "GJ",
+      "specific": [
+        {"name": "Gujarat Police Control", "number": "100", "category": "police"},
+        {"name": "Gujarat Emergency", "number": "112", "category": "emergency"},
+        {"name": "Gujarat Ambulance", "number": "108", "category": "medical"},
+        {"name": "Gujarat Women Helpline", "number": "181", "category": "women"},
+        {"name": "Gujarat CM Helpline", "number": "1800-233-5500", "category": "general"},
+        {"name": "Gujarat Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Gujarat Anti Corruption", "number": "1064", "category": "general"}
+      ]
+    },
+    {
+      "state": "Haryana",
+      "code": "HR",
+      "specific": [
+        {"name": "Haryana Police Control", "number": "100", "category": "police"},
+        {"name": "Haryana Emergency", "number": "112", "category": "emergency"},
+        {"name": "Haryana Ambulance", "number": "108", "category": "medical"},
+        {"name": "Haryana Women Helpline", "number": "1091", "category": "women"},
+        {"name": "Haryana CM Helpline", "number": "1800-180-2087", "category": "general"},
+        {"name": "Haryana Disaster", "number": "1070", "category": "disaster"}
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "code": "HP",
+      "specific": [
+        {"name": "HP Police Control", "number": "100", "category": "police"},
+        {"name": "HP Emergency", "number": "112", "category": "emergency"},
+        {"name": "HP Ambulance", "number": "108", "category": "medical"},
+        {"name": "HP Women Helpline", "number": "181", "category": "women"},
+        {"name": "HP Disaster", "number": "1070", "category": "disaster"},
+        {"name": "HP Tourism Emergency", "number": "1800-180-8080", "category": "general"}
+      ]
+    },
+    {
+      "state": "Jharkhand",
+      "code": "JH",
+      "specific": [
+        {"name": "Jharkhand Police Control", "number": "100", "category": "police"},
+        {"name": "Jharkhand Emergency", "number": "112", "category": "emergency"},
+        {"name": "Jharkhand Ambulance", "number": "108", "category": "medical"},
+        {"name": "Jharkhand Women Helpline", "number": "181", "category": "women"},
+        {"name": "Jharkhand CM Helpline", "number": "1800-345-6594", "category": "general"}
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "code": "KA",
+      "specific": [
+        {"name": "Karnataka Police Control", "number": "100", "category": "police"},
+        {"name": "Karnataka Emergency", "number": "112", "category": "emergency"},
+        {"name": "Karnataka Ambulance", "number": "108", "category": "medical"},
+        {"name": "Karnataka Women Helpline", "number": "181", "category": "women"},
+        {"name": "Karnataka CM Helpline", "number": "1902", "category": "general"},
+        {"name": "BBMP Helpline Bangalore", "number": "1533", "category": "general"},
+        {"name": "Karnataka Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Karnataka Anti Corruption", "number": "1064", "category": "general"},
+        {"name": "Bangalore Traffic Police", "number": "103", "category": "police"},
+        {"name": "Karnataka Health Helpline", "number": "104", "category": "medical"}
+      ]
+    },
+    {
+      "state": "Kerala",
+      "code": "KL",
+      "specific": [
+        {"name": "Kerala Police Control", "number": "100", "category": "police"},
+        {"name": "Kerala Emergency", "number": "112", "category": "emergency"},
+        {"name": "Kerala Ambulance", "number": "108", "category": "medical"},
+        {"name": "Kerala Women Helpline", "number": "181", "category": "women"},
+        {"name": "Kerala Health Helpline", "number": "1056", "category": "medical"},
+        {"name": "Kerala Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Kerala CM Helpline", "number": "1800-425-1550", "category": "general"},
+        {"name": "Kerala Tourism Emergency", "number": "1800-425-4747", "category": "general"}
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "code": "MP",
+      "specific": [
+        {"name": "MP Police Control", "number": "100", "category": "police"},
+        {"name": "MP Emergency", "number": "112", "category": "emergency"},
+        {"name": "MP Ambulance", "number": "108", "category": "medical"},
+        {"name": "MP Women Helpline", "number": "181", "category": "women"},
+        {"name": "MP CM Helpline", "number": "181", "category": "general"},
+        {"name": "MP Disaster", "number": "1070", "category": "disaster"},
+        {"name": "MP Kisan Helpline", "number": "1800-180-1551", "category": "farmer"}
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "code": "MH",
+      "specific": [
+        {"name": "Maharashtra Police Control", "number": "100", "category": "police"},
+        {"name": "Maharashtra Emergency", "number": "112", "category": "emergency"},
+        {"name": "Maharashtra Ambulance", "number": "108", "category": "medical"},
+        {"name": "Maharashtra Women Helpline", "number": "181", "category": "women"},
+        {"name": "Maharashtra Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Mumbai Police Control", "number": "100", "category": "police"},
+        {"name": "Mumbai Fire Brigade", "number": "101", "category": "fire"},
+        {"name": "Maharashtra CM Helpline", "number": "1800-120-8040", "category": "general"},
+        {"name": "Maharashtra Anti Corruption", "number": "1064", "category": "general"}
+      ]
+    },
+    {
+      "state": "Manipur",
+      "code": "MN",
+      "specific": [
+        {"name": "Manipur Police Control", "number": "100", "category": "police"},
+        {"name": "Manipur Emergency", "number": "112", "category": "emergency"},
+        {"name": "Manipur Ambulance", "number": "108", "category": "medical"},
+        {"name": "Manipur Women Helpline", "number": "181", "category": "women"}
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "code": "ML",
+      "specific": [
+        {"name": "Meghalaya Police Control", "number": "100", "category": "police"},
+        {"name": "Meghalaya Emergency", "number": "112", "category": "emergency"},
+        {"name": "Meghalaya Ambulance", "number": "108", "category": "medical"},
+        {"name": "Meghalaya Women Helpline", "number": "181", "category": "women"}
+      ]
+    },
+    {
+      "state": "Mizoram",
+      "code": "MZ",
+      "specific": [
+        {"name": "Mizoram Police Control", "number": "100", "category": "police"},
+        {"name": "Mizoram Emergency", "number": "112", "category": "emergency"},
+        {"name": "Mizoram Ambulance", "number": "108", "category": "medical"},
+        {"name": "Mizoram Women Helpline", "number": "181", "category": "women"}
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "code": "NL",
+      "specific": [
+        {"name": "Nagaland Police Control", "number": "100", "category": "police"},
+        {"name": "Nagaland Emergency", "number": "112", "category": "emergency"},
+        {"name": "Nagaland Ambulance", "number": "108", "category": "medical"},
+        {"name": "Nagaland Women Helpline", "number": "181", "category": "women"}
+      ]
+    },
+    {
+      "state": "Odisha",
+      "code": "OD",
+      "specific": [
+        {"name": "Odisha Police Control", "number": "100", "category": "police"},
+        {"name": "Odisha Emergency", "number": "112", "category": "emergency"},
+        {"name": "Odisha Ambulance", "number": "108", "category": "medical"},
+        {"name": "Odisha Women Helpline", "number": "181", "category": "women"},
+        {"name": "Odisha Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Odisha CM Helpline", "number": "1800-345-6770", "category": "general"}
+      ]
+    },
+    {
+      "state": "Punjab",
+      "code": "PB",
+      "specific": [
+        {"name": "Punjab Police Control", "number": "100", "category": "police"},
+        {"name": "Punjab Emergency", "number": "112", "category": "emergency"},
+        {"name": "Punjab Ambulance", "number": "108", "category": "medical"},
+        {"name": "Punjab Women Helpline", "number": "181", "category": "women"},
+        {"name": "Punjab CM Helpline", "number": "1905", "category": "general"},
+        {"name": "Punjab Anti Drug", "number": "1800-68-31188", "category": "general"}
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "code": "RJ",
+      "specific": [
+        {"name": "Rajasthan Police Control", "number": "100", "category": "police"},
+        {"name": "Rajasthan Emergency", "number": "112", "category": "emergency"},
+        {"name": "Rajasthan Ambulance", "number": "108", "category": "medical"},
+        {"name": "Rajasthan Women Helpline", "number": "181", "category": "women"},
+        {"name": "Rajasthan CM Helpline", "number": "1800-180-6127", "category": "general"},
+        {"name": "Rajasthan Disaster", "number": "1070", "category": "disaster"}
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "code": "SK",
+      "specific": [
+        {"name": "Sikkim Police Control", "number": "100", "category": "police"},
+        {"name": "Sikkim Emergency", "number": "112", "category": "emergency"},
+        {"name": "Sikkim Ambulance", "number": "108", "category": "medical"},
+        {"name": "Sikkim Women Helpline", "number": "181", "category": "women"},
+        {"name": "Sikkim Disaster", "number": "1070", "category": "disaster"}
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "code": "TN",
+      "specific": [
+        {"name": "TN Police Control", "number": "100", "category": "police"},
+        {"name": "TN Emergency", "number": "112", "category": "emergency"},
+        {"name": "TN Ambulance", "number": "108", "category": "medical"},
+        {"name": "TN Women Helpline", "number": "181", "category": "women"},
+        {"name": "TN CM Helpline", "number": "1100", "category": "general"},
+        {"name": "TN Health Helpline", "number": "104", "category": "medical"},
+        {"name": "TN Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Chennai Police Control", "number": "100", "category": "police"},
+        {"name": "TN Anti Corruption", "number": "1064", "category": "general"}
+      ]
+    },
+    {
+      "state": "Telangana",
+      "code": "TS",
+      "specific": [
+        {"name": "Telangana Police Control", "number": "100", "category": "police"},
+        {"name": "Telangana Emergency", "number": "112", "category": "emergency"},
+        {"name": "Telangana Ambulance", "number": "108", "category": "medical"},
+        {"name": "Telangana Women Helpline", "number": "181", "category": "women"},
+        {"name": "Telangana CM Helpline", "number": "1902", "category": "general"},
+        {"name": "Hyderabad Police Control", "number": "100", "category": "police"},
+        {"name": "Telangana Disaster", "number": "1070", "category": "disaster"}
+      ]
+    },
+    {
+      "state": "Tripura",
+      "code": "TR",
+      "specific": [
+        {"name": "Tripura Police Control", "number": "100", "category": "police"},
+        {"name": "Tripura Emergency", "number": "112", "category": "emergency"},
+        {"name": "Tripura Ambulance", "number": "108", "category": "medical"},
+        {"name": "Tripura Women Helpline", "number": "181", "category": "women"}
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "code": "UP",
+      "specific": [
+        {"name": "UP Police Control", "number": "100", "category": "police"},
+        {"name": "UP Emergency", "number": "112", "category": "emergency"},
+        {"name": "UP Ambulance", "number": "108", "category": "medical"},
+        {"name": "UP Women Power Line", "number": "1090", "category": "women"},
+        {"name": "UP CM Helpline", "number": "1076", "category": "general"},
+        {"name": "UP Anti Corruption", "number": "1064", "category": "general"},
+        {"name": "UP Disaster", "number": "1070", "category": "disaster"},
+        {"name": "UP Anti Romeo Squad", "number": "1090", "category": "women"}
+      ]
+    },
+    {
+      "state": "Uttarakhand",
+      "code": "UK",
+      "specific": [
+        {"name": "Uttarakhand Police Control", "number": "100", "category": "police"},
+        {"name": "Uttarakhand Emergency", "number": "112", "category": "emergency"},
+        {"name": "Uttarakhand Ambulance", "number": "108", "category": "medical"},
+        {"name": "Uttarakhand Women Helpline", "number": "181", "category": "women"},
+        {"name": "Uttarakhand Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Uttarakhand Tourism Emergency", "number": "1364", "category": "general"}
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "code": "WB",
+      "specific": [
+        {"name": "WB Police Control", "number": "100", "category": "police"},
+        {"name": "WB Emergency", "number": "112", "category": "emergency"},
+        {"name": "WB Ambulance", "number": "108", "category": "medical"},
+        {"name": "WB Women Helpline", "number": "181", "category": "women"},
+        {"name": "WB CM Helpline", "number": "1800-345-5555", "category": "general"},
+        {"name": "Kolkata Police Control", "number": "100", "category": "police"},
+        {"name": "WB Disaster", "number": "1070", "category": "disaster"}
+      ]
+    },
+    {
+      "state": "Delhi",
+      "code": "DL",
+      "specific": [
+        {"name": "Delhi Police Control", "number": "100", "category": "police"},
+        {"name": "Delhi Emergency", "number": "112", "category": "emergency"},
+        {"name": "Delhi Ambulance", "number": "108", "category": "medical"},
+        {"name": "Delhi Women Helpline", "number": "181", "category": "women"},
+        {"name": "Delhi Fire Service", "number": "101", "category": "fire"},
+        {"name": "Delhi Traffic Police", "number": "1095", "category": "police"},
+        {"name": "Delhi Disaster", "number": "1070", "category": "disaster"},
+        {"name": "Delhi CM Helpline", "number": "1031", "category": "general"},
+        {"name": "Delhi Anti Corruption", "number": "1064", "category": "general"}
+      ]
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "code": "JK",
+      "specific": [
+        {"name": "JK Police Control", "number": "191-2542000", "category": "police"},
+        {"name": "JK Emergency", "number": "112", "category": "emergency"},
+        {"name": "JK Ambulance", "number": "108", "category": "medical"},
+        {"name": "JK Women Helpline", "number": "181", "category": "women"},
+        {"name": "JK Disaster Management", "number": "1070", "category": "disaster"}
+      ]
+    }
+  ]
+}
