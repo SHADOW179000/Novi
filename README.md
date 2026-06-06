@@ -1,0 +1,2 @@
+# Novi
+Emergency AI tool
